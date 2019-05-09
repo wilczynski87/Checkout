@@ -1,2 +1,2 @@
 # Checkout
-Checkout function (like in online store), which give a sum for shopping basket.
+Checkout function (like in online store), which give a sum for shopping basket. written in Java
